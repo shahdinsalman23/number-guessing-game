@@ -1,5 +1,11 @@
+# README.md
+
+Some content from your local branch.
+
 <<<<<<< HEAD
-// Your changes
+This is a line from your changes.
 =======
-// Remote changes
+This is a line from remote changes.
 >>>>>>> FETCH_HEAD
+
+More content from your local branch.
