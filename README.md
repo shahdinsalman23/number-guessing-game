@@ -1,11 +1,25 @@
-# README.md
+# Number Guessing Game
 
-Some content from your local branch.
+This is a simple Number Guessing Game project.
 
 <<<<<<< HEAD
-This is a line from your changes.
+## Your Changes
+- Add a new feature.
+- Update the instructions.
+
 =======
-This is a line from remote changes.
+## Remote Changes
+- Fix a bug.
+- Improve performance.
 >>>>>>> FETCH_HEAD
 
-More content from your local branch.
+## Instructions
+
+Follow these steps to play the game:
+1. Clone the repository.
+2. Run the game app.
+3. ...
+
+## Contribution
+
+Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
